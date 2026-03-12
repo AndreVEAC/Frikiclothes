@@ -1,0 +1,21 @@
+module FrikiToys {
+
+	imports{
+		Base
+	}
+
+	item TheIronGiant
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Estatuilla del Gigante de Hierro,
+		Icon 				= 	IronGiant_icon,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	IronGiant,
+		WorldStaticModel 	= 	IronGiant,
+		Tooltip = Tooltip_TheIronGiant,
+	}
+
+
+}
